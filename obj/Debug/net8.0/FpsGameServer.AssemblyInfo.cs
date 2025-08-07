@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FpsGameServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65c8824f4eafe0a039e24dc5177961a89a5b00df")]
 [assembly: System.Reflection.AssemblyProductAttribute("FpsGameServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FpsGameServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
