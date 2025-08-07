@@ -1,0 +1,14 @@
+C:\Users\hadi\Desktop\FpsGameServer\bin\Debug\net8.0\FpsGameServer.exe
+C:\Users\hadi\Desktop\FpsGameServer\bin\Debug\net8.0\FpsGameServer.deps.json
+C:\Users\hadi\Desktop\FpsGameServer\bin\Debug\net8.0\FpsGameServer.runtimeconfig.json
+C:\Users\hadi\Desktop\FpsGameServer\bin\Debug\net8.0\FpsGameServer.dll
+C:\Users\hadi\Desktop\FpsGameServer\bin\Debug\net8.0\FpsGameServer.pdb
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\FpsGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\FpsGameServer.AssemblyInfoInputs.cache
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\FpsGameServer.AssemblyInfo.cs
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\FpsGameServer.csproj.CoreCompileInputs.cache
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\FpsGameServer.dll
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\refint\FpsGameServer.dll
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\FpsGameServer.pdb
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\FpsGameServer.genruntimeconfig.cache
+C:\Users\hadi\Desktop\FpsGameServer\obj\Debug\net8.0\ref\FpsGameServer.dll
