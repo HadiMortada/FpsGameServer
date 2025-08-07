@@ -6,11 +6,16 @@ namespace FpsGameServer
     {
         static void Main(string[] args)
         {
-            var server = new Server(7777);
+            // Get the PORT from the environment variable, or default to 7777
+            string portEnv = Environment.GetEnvironmentVariable("PORT") ?? "7777";
+            int port = int.Parse(portEnv);
+
+            Server server = new Server(port);
             server.Start();
 
             Console.WriteLine("Press Enter to shut down...");
             Console.ReadLine();
+
             server.Stop();
         }
     }
