@@ -13,10 +13,12 @@ namespace FpsGameServer
             Server server = new Server(port);
             server.Start();
 
-            Console.WriteLine("Press Enter to shut down...");
+            Task.Delay(-1).Wait(); // keeps the server alive forever
+
             Console.ReadLine();
 
             server.Stop();
         }
     }
 }
+
